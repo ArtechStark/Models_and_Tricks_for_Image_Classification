@@ -2,5 +2,7 @@
 
 Based on this [repo](https://github.com/weiaicunzai/pytorch-cifar).
 
-## A curated list of deep learning image classification papers and codes
-[Repo](https://github.com/weiaicunzai/awesome-image-classification)
+## 相关资料
+- [A curated list of deep learning image classification papers and codes](https://github.com/weiaicunzai/awesome-image-classification)
+
+- [pretrained-models-pytorch](https://github.com/Cadene/pretrained-models.pytorch)
